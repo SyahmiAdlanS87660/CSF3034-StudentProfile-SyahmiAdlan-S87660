@@ -27,6 +27,9 @@ public class StudentProfile_S87660 {
         System.out.println("Name: Syahmi Adlan");
         System.out.println("Student ID: S87660");
         System.out.println("Programme: Bachelor of Computer Science in Cloud Computing Security");
+        System.out.println("Semester: Semester 1");
+        System.out.println("Favourite Language: Java");
+
     }
     
 }
